@@ -1,5 +1,5 @@
 ## Coursera - Exploratory Data Analysis - Course Project 1
-## Plot 3 (Energy sub metering over Time)
+## Plot 4 (Grid of four plots)
 
 ## Call data preparation script. Reads data in from file, filters the data to
 ## only the subset of observations we are interested in and tidies the data up.
